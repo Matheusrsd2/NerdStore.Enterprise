@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b36f1796-9a64-4a6d-a6a8-d160a5ca5f34": {
+      "ProjectGuid": "b36f1796-9a64-4a6d-a6a8-d160a5ca5f34",
+      "DisplayName": "NerdStore.Core",
+      "ColorIndex": 0
+    },
+    "ef9beace-327b-4580-89a1-db4331ad9be2": {
+      "ProjectGuid": "ef9beace-327b-4580-89a1-db4331ad9be2",
+      "DisplayName": "NerdStore.Identidade.API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
