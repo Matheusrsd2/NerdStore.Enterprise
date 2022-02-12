@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matrsantos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\building blocks\\NerdStore.Core\\NerdStore.Core.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\building blocks\\NerdStore.Core\\NerdStore.Core.csproj",
       "projectName": "NerdStore.Core",
-      "projectPath": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\building blocks\\NerdStore.Core\\NerdStore.Core.csproj",
-      "packagesPath": "C:\\Users\\matrsantos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\building blocks\\NerdStore.Core\\obj\\",
+      "projectPath": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\building blocks\\NerdStore.Core\\NerdStore.Core.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\building blocks\\NerdStore.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\matrsantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

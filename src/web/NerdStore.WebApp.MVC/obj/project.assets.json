@@ -98,23 +98,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matrsantos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\web\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\web\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "projectName": "NerdStore.WebApp.MVC",
-      "projectPath": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\web\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
-      "packagesPath": "C:\\Users\\matrsantos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\web\\NerdStore.WebApp.MVC\\obj\\",
+      "projectPath": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\web\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\web\\NerdStore.WebApp.MVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\matrsantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -163,7 +159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

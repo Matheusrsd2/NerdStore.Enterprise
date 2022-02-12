@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AFqXsF0sRH+yBcKYiVvc8qy0iadAFf+IGInyKJ2NukssTC11QaHEUncYHYNdUu5qIKF7btpdMLJOdKS5SDq53Q==",
+  "dgSpecHash": "+4WD6I49FvAjZViGwWZWFqp8T8WsGxI3KIJo5v5oZhB532XsVuchSe6gTC5IzNyTnt+fRe5kjn30g4ZqK9tUjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matrsantos\\Documents\\Personal\\NerdStoreEnterprise\\src\\web\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Documents\\NerdStore.Enterprise\\src\\web\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\matrsantos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],
   "logs": []
 }
